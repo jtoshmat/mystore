@@ -1,4 +1,7 @@
+/.idea
+/.idea/vcs.xml
 .htaccess.sample
+.DS_Store
 .modgit/
 .modman/
 app/code/community/Phoenix/
